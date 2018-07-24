@@ -7,4 +7,4 @@ Usage: java -jar FactorizationMachines.jar filePath outPath
 
 These parameters are set by default but you can override them passing alternative ones
 
-The typical BPR parameters have to be modified within te code itself. As soon as a parameterized version will be available it will be updated.
+The typical BPR parameters have to be modified within the code itself. As soon as a parameterized version will be available it will be updated.
