@@ -14,7 +14,7 @@ The publicly available version of this project includes implementations of sever
 - timeSVD (adapted for top@N recommendation)
 - TimePOP - Temporal Popularity baseline
 
-If you find these implementation useful for your research please cite:
+If you find these implementations useful for your research please cite:
 
 > @article{DBLP:journals/corr/abs-1807-04204,   
 >   author    = {Vito Walter Anelli and   
