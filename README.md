@@ -16,20 +16,20 @@ The publicly available version of this project includes implementations of sever
 
 If you find these implementation useful for your research please cite:
 
-> @article{DBLP:journals/corr/abs-1807-04204,
->   author    = {Vito Walter Anelli and
->                Joseph Trotta and
->                Tommaso Di Noia and
->                Eugenio Di Sciascio and
->                Azzurra Ragone},
->   title     = {Time and Local Popularity in top-N Recommendation},
->   journal   = {CoRR},
->   volume    = {abs/1807.04204},
->   year      = {2018},
->   url       = {http://arxiv.org/abs/1807.04204},
->   archivePrefix = {arXiv},
->   eprint    = {1807.04204},
->   timestamp = {Mon, 23 Jul 2018 13:39:30 +0200},
->   biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1807-04204},
->   bibsource = {dblp computer science bibliography, https://dblp.org}
-> }
+> @article{DBLP:journals/corr/abs-1807-04204, 
+>   author    = {Vito Walter Anelli and 
+>                Joseph Trotta and 
+>                Tommaso Di Noia and 
+>                Eugenio Di Sciascio and 
+>                Azzurra Ragone}, 
+>   title     = {Time and Local Popularity in top-N Recommendation}, 
+>   journal   = {CoRR}, 
+>   volume    = {abs/1807.04204}, 
+>   year      = {2018}, 
+>   url       = {http://arxiv.org/abs/1807.04204}, 
+>   archivePrefix = {arXiv}, 
+>   eprint    = {1807.04204}, 
+>   timestamp = {Mon, 23 Jul 2018 13:39:30 +0200}, 
+>   biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1807-04204}, 
+>   bibsource = {dblp computer science bibliography, https://dblp.org} 
+> } 
