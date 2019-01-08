@@ -12,6 +12,12 @@ The publicly available version of this project includes implementations of sever
 - item-kNN-TD (Similarities: Cosine, Binary Cosine)
 - user-kNN-TD (Similarities: Binary Cosine)
 - timeSVD (adapted for top@N recommendation)
+- BPRMF
+- Biased Matrix Factorization
+- WRMF
+- WRMF with side information
+- Soft Margin Ranking Matrix Factorization
+- Soft Margin Ranking Matrix Factorization side information
 - TimePOP - Temporal Popularity baseline
 
 
