@@ -14,3 +14,11 @@ The publicly available version of this project includes implementations of sever
 - timeSVD (adapted for top@N recommendation)
 - TimePOP - Temporal Popularity baseline
 
+
+## Contacts
+
+   Tommaso Di Noia, tommaso [dot] dinoia [at] poliba [dot] it  
+   
+   Vito Walter Anelli, vitowalter [dot] anelli [at] poliba [dot] it 
+   
+   Joseph Trotta, joseph [dot] trotta [at] poliba [dot] it 
